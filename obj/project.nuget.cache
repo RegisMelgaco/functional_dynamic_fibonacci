@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3a1X1W3FzeEclr3ZLLCMj+7CeWX+W2vlHmCaRzfM4DJ03hkGlBqbs0Qfriinkr9ZNKPnCHS35wCuWTs969GBKg==",
+  "success": true,
+  "projectFilePath": "/Users/regisandrade/repos/DynamicFsharp/DynamicFsharp.fsproj",
+  "expectedPackageFiles": [
+    "/Users/regisandrade/.nuget/packages/fsharp.core/4.7.0/fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
